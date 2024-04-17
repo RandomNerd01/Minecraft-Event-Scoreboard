@@ -22,7 +22,7 @@ Unfortunately after each minigame, admins will have to run '/main' in order to r
 
 
 
-## 3) In order for game leaderboard to accurately track points, another plugin from https://github.com/Suiron99/Points-Survival-Damage-Kill- has to be downloaded.
+## 3) In order for game leaderboard to accurately track points, another plugin from https://github.com/Suiron99/Points-Survival-Damage-Kill has to be downloaded.
 
 
 
