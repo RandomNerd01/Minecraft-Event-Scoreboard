@@ -17,3 +17,9 @@ Every player's points are different from one another and will increment throught
 After the timer for the game hits 0, top 5 players for the game will be displayed in chat. Game points are added to main scoreboard points and are reset to 0 automatically.
 
 Unfortunately after each minigame, admins will have to run '/main' in order to redisplay the main scoreboard but now with the added points from the game that had just finished, since Game Scoreboard and Main Scoreboard are 2 different plugins.
+
+
+
+
+
+## 3) In order for game leaderboard to accurately track points, another plugin from https://github.com/Suiron99/Points-Survival-Damage-Kill- has to be downloaded.
