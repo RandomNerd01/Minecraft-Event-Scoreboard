@@ -23,3 +23,18 @@ Unfortunately after each minigame, admins will have to run '/main' in order to r
 
 
 ## 3) In order for game leaderboard to accurately track points, another plugin from https://github.com/Suiron99/Points-Survival-Damage-Kill- has to be downloaded.
+
+
+
+
+
+
+
+
+
+
+## Video Below Showing Full Website Process
+
+
+
+[![Full Minecraft Event Leaderboard Plugin](https://i9.ytimg.com/vi_webp/4sTqswF47HI/mq2.webp?sqp=CKC7_rAG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGDsgZSgoMA8=&rs=AOn4CLA8Ddto9xHy0dwWT8ULPkuZJIlXmw)](https://youtu.be/4sTqswF47HI "Full Minecraft Event Leaderboard Plugin")
