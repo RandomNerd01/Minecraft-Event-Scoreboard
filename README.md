@@ -33,7 +33,7 @@ Unfortunately after each minigame, admins will have to run '/main' in order to r
 
 
 
-## Video Below Showing Full Website Process
+## Video Below Showing Full Plugin with Points plugin as well
 
 
 
