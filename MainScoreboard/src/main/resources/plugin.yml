@@ -1,0 +1,7 @@
+name: DamagePoints
+version: '${project.version}'
+main: jumppads.damagepoints.DamagePoints
+api-version: '1.18'
+commands:
+  main:
+    description: Create Main Scoreboard

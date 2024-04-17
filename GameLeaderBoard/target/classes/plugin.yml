@@ -1,0 +1,7 @@
+name: DamagePoints
+version: '1.0-SNAPSHOT'
+main: jumppads.damagepoints.DamagePoints
+api-version: '1.18'
+commands:
+  scorecommand:
+    description: Create Scoreboard

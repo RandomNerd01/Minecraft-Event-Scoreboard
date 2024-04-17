@@ -1,0 +1,14 @@
+KillMultiplier: 20
+#A multiplier of 1 means 1 point for 1 kill
+DamageMultiplier: 0.1
+#A multiplier of 1 means 10 points for dealing damage equivalent to 1 heart.
+#If u want a multipler that is an integer, put .0 at the end.
+#For example, 1 will be 1.0.
+
+SurvivalMultiplier: 2.0
+
+Multiplier: 1.0
+
+
+
+#To Update Scoreboard, do command "/scorecommand"
