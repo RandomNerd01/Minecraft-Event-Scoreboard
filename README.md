@@ -22,7 +22,11 @@ Unfortunately after each minigame, admins will have to run '/main' in order to r
 
 
 
-## 3) In order for game leaderboard to accurately track points, another plugin from https://github.com/Suiron99/Points-Survival-Damage-Kill has to be downloaded.
+## 3) In order for game leaderboard to accurately track points, another plugin has to be downloaded.
+
+In order to get points correct, I have different plugins based off the type of minigame to be downloaded. So far:
+
+1) https://github.com/Suiron99/Points-Survival-Damage-Kill (Gives you points based off survival, kills, damage. Configurable in config. If you want to disable any one of the 3 simply set the one you want to disable to be 0 in config)
 
 
 
