@@ -32,6 +32,8 @@ In order to get points correct, I have different plugins based off the type of m
 
 
 
+2) https://github.com/Suiron99/Points-Race (Gives you points based off position finished in a race. Configurable in config)
+
 
 
 
