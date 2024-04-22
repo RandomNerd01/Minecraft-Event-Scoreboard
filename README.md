@@ -26,13 +26,13 @@ Unfortunately after each minigame, admins will have to run '/main' in order to r
 
 In order to get points correct, I have different plugins based off the type of minigame to be downloaded. So far:
 
-1) https://github.com/Suiron99/Points-Survival-Damage-Kill (Gives you points based off survival, kills, damage. Configurable in config. If you want to disable any one of the 3 simply set the one you want to disable to be 0 in config)
+1) https://github.com/RandomNerd01/Points-Survival-Damage-Kill (Gives you points based off survival, kills, damage. Configurable in config. If you want to disable any one of the 3 simply set the one you want to disable to be 0 in config)
 
 
 
 
 
-2) https://github.com/Suiron99/Points-Race (Gives you points based off position finished in a race. Configurable in config)
+2) https://github.com/RandomNerd01/Points-Race (Gives you points based off position finished in a race. Configurable in config)
 
 
 
